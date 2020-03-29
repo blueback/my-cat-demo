@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config mode="client" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="config.xsd">
+    <domain id="translate"/>
+    <servers>
+        <!-- Local mode for development -->
+        <server ip="122.51.142.169" port="2280" http-port="8080" enabled="true"/>
+    </servers>
+</config>
